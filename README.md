@@ -1,5 +1,7 @@
 ### Hi bro 👋, here is my [blog](https://blog.jogiter.cn/)
 
+> serverless and rust is current, web3 is future!
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=jogiter&show_icons=true&bg_color=343640&theme=tokyonight&hide_border=true)
 
 <!--
