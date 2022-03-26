@@ -2,7 +2,7 @@
 
 > serverless and rust is the current trend, and web3 is the future!
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=jogiter&show_icons=true&bg_color=343640&theme=tokyonight&hide_border=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=jogiter&show_icons=true&theme=vue&hide_border=true)
 
 <!--
 **Jogiter/Jogiter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
