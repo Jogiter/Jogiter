@@ -1,6 +1,10 @@
-### Hi bro 👋, here is my [blog](https://blog.jogiter.cn/)
+### Hi bro 👋, i am a fullstack developer in china. I’m currently learning web3.
 
-> serverless and rust is the current trend, and web3 is the future!
+here is my [blog](https://blog.jogiter.cn/). 
+
+please [email to me](mailto:jogiter.g@gmail.com) if needed.
+
+> serverless and rust is the current trend, and web3 is the future! 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=jogiter&show_icons=true&theme=vue&hide_border=true)
 
