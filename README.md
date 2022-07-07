@@ -1,8 +1,6 @@
 ### Hi bro 👋, i am a fullstack developer in china. I’m currently learning serverless.
 
-here is my [blog](https://blog.jogiter.cn/). 
-
-please [email to me](mailto:jogiter.g@gmail.com) if needed.
+here is my [blog](https://blog.jogiter.cn/).
 
 > serverless and rust is the current trend, and web3 is the future! 
 
