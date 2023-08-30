@@ -1,4 +1,4 @@
-### Hi bro 👋, i am a fullstack developer in china. I’m currently learning serverless.
+### Hi bro 👋, i am a fullstack developer in china. I’m currently learning web3.
 
 here is my [blog](https://blog.jogiter.cn/).
 
