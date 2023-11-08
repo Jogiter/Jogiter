@@ -2,7 +2,7 @@
 
 here is my [blog](https://blog.jogiter.cn/).
 
-> serverless and rust is the current trend, and web3 is the future! 
+>ABCD = AI + BlockChain + Cloud-Compute + Big-Data
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=jogiter&show_icons=true&theme=vue&hide_border=true)
 
